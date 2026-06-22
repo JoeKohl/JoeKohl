@@ -26,9 +26,9 @@ My passion lies at the intersection of data science, and process optimization—
 
 - Historical Performance Modeling | R, Linear Modeling, sfAnalyzed historical tournament trends and mapped performance statistics using spatial data visualization, tracking performance trajectories and geographic team data over time.
 
-## <u>**Core Interests & Research Focus**</u>
+## Core Interests & Research Focus
 
-- Data Storytelling: Simplifying dense analytical data into relatable, high-impact narratives.
+- **Data Storytelling**: Simplifying dense analytical data into relatable, high-impact narratives.
 
 - Decision Hygiene: Studying "noise" and bias reduction in human judgment to build more resilient project management frameworks.
 
